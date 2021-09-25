@@ -1,6 +1,6 @@
 # Аксuлuна
 
-![так я себя вижу я](/assets/face.png?raw=true)
+![так я себя вижу я](/assets/face.png)
 
 
 
