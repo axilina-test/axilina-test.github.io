@@ -6,7 +6,7 @@
 ![отполины.jpg]({{site.baseurl}}/отполины.jpg)
 [Полина](https://vk.com/wannadiehappy "Полина")
 ![отвари.jpg]({{site.baseurl}}/отвари.jpg)
-[варя](www.instagram.com/equabl.e "Варя")
+[Варя](https://www.instagram.com/[equabl.e] "Варя")
 
 ТАК Я ВЫГЛЯЖУ НА САМОМ ДЕЛЕ
 ![вета](/вета.jpg)
