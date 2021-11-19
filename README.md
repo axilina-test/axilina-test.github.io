@@ -5,8 +5,10 @@
 ТАК МЕНЯ ВИДЯТ КЛИЕНТЫ
 ![отполины.jpg]({{site.baseurl}}/отполины.jpg)
 [Полина](https://vk.com/wannadiehappy "Полина")
+
+
 ![отвари.jpg]({{site.baseurl}}/отвари.jpg)
-[Варя](https://instagram.com/equabl.e "Варя")
+[Варя](https://instagram.com/equabl.e?utm_medium=copy_link "Варя")
 
 ТАК Я ВЫГЛЯЖУ НА САМОМ ДЕЛЕ
 ![вета](/вета.jpg)
